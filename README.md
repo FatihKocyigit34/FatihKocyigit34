@@ -1,7 +1,7 @@
 
 ### Merhaba, Ben Fatih Koçyiğit 17 yaşındayım
 
-## Fullstack Developer | (Student)
+## Student Developer
 
 <font color="pink">Biraz oyun ve kahve 😃 </font>
 
