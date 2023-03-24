@@ -1,17 +1,38 @@
-<link rel="stylesheet" href="readme.css">
-<h1 align="center">Hoş geldiniz!</h1>
-<div align="center">
-    <h3 align="center">Merhaba, Ben Fatih Koçyiğit ve 17 yaşındayım.</h3>
-    <h3 align="center">Sosyal Medya hesaplarım</h3>
-    <center>
-    <a href="https://www.instagram.com/c4f0.0" align="center"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link"></a></center>
-    <hr>
-    <h3>Bildiğim Diller;</h3>
-    <h5><pre> ● C#    ● Java    ● JavaScript    ● HTML/CSS</pre></h5>
-    <hr>
-    <h3>Bildiğim Adobe Uygulamaları;</h3>
-    <h5><pre> ● Adobe Photoshop    ● Adobe Illustrator    ● Adobe After Effects    ● Adobe Premier</pre></h5>
-    <hr>
-    <img src="https://streak-stats.demolab.com?user=FatihKocyigit34&theme=highcontrast&border_radius=4.7&background=000000)](https://git.io/streak-stats">
-    <hr>
-</div>
+
+### Merhaba, Ben Fatih Koçyiğit 17 yaşındayım
+
+## Fullstack Developer | (Student)
+
+<font color="pink">Biraz oyun ve kahve 😃 </font>
+
+## Sosyal Medya Hesaplarım
+
+[<img  width="22" src="[https://unpkg.com/simple-icons@v4/icons/youtube.svg](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)" align="left" />][instagram]
+
+<br />
+<br />
+
+## Bildiğim Diller
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
+<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fj%2Fjava-logo-1%2F&psig=AOvVaw0pXArn8eSI3-mMKB9obAZ3&ust=1679728426341000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjT4riC9P0CFQAAAAAdAAAAABAD" width="25" height="25"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
+
+<br />
+<br />
+
+
+## <summary>:bulb: Github İstatistikleri</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=FatihKocyigit34&theme=dark" >
+
+
+<br />
+<br />
+
+
+## <summary>:bulb:  En Çok Kullanılan Diller</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKocyigit34&layout=compact&theme=dark" >
+
+[instagram]: https://instagram.com/c4f0.0
