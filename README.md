@@ -25,7 +25,7 @@
 
 ## Bildiğim Adobe Programları
 
-<h5><pre> ● C#    ● Kotlin    ● Java    ● Lua    ● HTML/CSS    ● Python    ● PHP</pre></h5>
+<h5><pre> ● Photoshop   ● Premier    ● After Effects    ● Illustrator    </pre></h5>
 
 <br />
 <br />
