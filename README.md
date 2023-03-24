@@ -23,6 +23,12 @@
 <br />
 <br />
 
+## Bildiğim Adobe Programları
+
+<h5><pre> ● C#    ● Kotlin    ● Java    ● Lua    ● HTML/CSS    ● Python    ● PHP</pre></h5>
+
+<br />
+<br />
 
 ## <summary>:bulb: Github İstatistikleri</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=FatihKocyigit34&theme=dark" >
