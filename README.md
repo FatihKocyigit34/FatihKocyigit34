@@ -7,7 +7,7 @@
 
 ## Sosyal Medya Hesaplarım
 
-[<img  width="22" src="[https://unpkg.com/simple-icons@v4/icons/youtube.svg](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)" align="left" />][instagram]
+[<img  width="22" src="(https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)" align="left" />][instagram]
 
 <br />
 <br />
